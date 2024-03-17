@@ -127,7 +127,6 @@ In the `db-scripts` directory, you'll find the following scripts:
 
 Ensure that you execute the scripts in the specified order for the correct setup of the database tables and functions.
 
-...
 
 Feel free to adapt the script names and content based on your specific database setup and requirements.
 
