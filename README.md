@@ -138,5 +138,3 @@ Feel free to adapt the script names and content based on your specific database 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
-Make sure to replace placeholders like `your-username`, `your-organization`, and adjust other details according to your project's specifics.
