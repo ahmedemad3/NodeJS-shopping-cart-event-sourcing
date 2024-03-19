@@ -1,6 +1,6 @@
 Certainly! Below are the additions and modifications to the README file for the Node.js with TypeScript project:
 
-```markdown
+
 # Event Sourcing Shopping Cart Application
 
 This Node.js project with TypeScript demonstrates an implementation of event sourcing for a shopping cart with a PostgreSQL database.
